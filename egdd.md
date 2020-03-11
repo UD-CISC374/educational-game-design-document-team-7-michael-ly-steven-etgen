@@ -1,43 +1,53 @@
-# Game Name
+# Game Name - TBD
 
 ## Elevator Pitch
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
+Our game combines the fun of popular "feeding-frenzy" type games with the creativity of simple coding, giving players a clear sense of how methods and attributes are used in games behind the scenes as they play.
+
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- *Influence #1*: Feeding Frenzy
+  - Medium: Video game
+  - Explanation: This game has a similiar style to Feeding Frenzy, the game where you start as a shark and eat fish to get more powerful. We use a similiar concept with our game as you gain the ability to call methods as you eat fish of smaller size.
+
 - *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+  - Medium: 
+  - Explanation: 
+
 
 ## Core Gameplay Mechanics (Brief)
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- *Gameplay Mechanic #1: Get the ability to conrol your shark through calling methods and changing attributes as you eat fish of smaller size.
+- *Gameplay Mechanic #2: Input a method that grows your shark.
+- *Gameplay Mechanic #3: Input a method that changes your shark's speed.
+- *Gameplay Mechanic #4: Input a methods that changes your shark's color and other phsyical attributes.
 
 # Learning Aspects
+
+- Learn simple coding practices such as method calls and how attributes work
 
 ## Learning Domains
 
 *Briefly list any and all of the disciplines and learning domains for this subject.*
 
+ - Coding/Programming (method calls, attributes, etc.)
+
 ## Target Audiences
 
 *Who are your learners?*
 
+- Middle and high school students with an interest in learning simple coding practices
+
 ## Target Contexts
 
 *Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+
+ - Introduction to programming classes
+ - Informal free time for students that want to learn some simple coding practices
 
 ## Learning Objectives
 
