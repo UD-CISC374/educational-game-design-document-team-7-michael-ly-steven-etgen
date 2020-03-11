@@ -10,7 +10,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 - *Influence #1*: Feeding Frenzy
   - Medium: Video game
-  - Explanation: This game has a similiar style to Feeding Frenzy, the game where you start as a shark and eat fish to get more powerful. We use a similiar concept with our game as you gain the ability to call methods as you eat fish of smaller size.
+  - Explanation: This is a simple yet addicting game where you start with a relatively small fish. Your fish can get bigger in size by eating enough fish that are 	smaller than it. As your fish gets bigger, it can start targeting fish that used to be bigger than it. This game has a similiar style to Feeding Frenzy. We 	use a similiar concept with our game as you gain the ability to call methods as you eat fish of smaller size.
 
 - *Influence #2*:
   - Medium: 
@@ -25,6 +25,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 - *Gameplay Mechanic #2: Input a method that grows your shark.
 - *Gameplay Mechanic #3: Input a method that changes your shark's speed.
 - *Gameplay Mechanic #4: Input a methods that changes your shark's color and other phsyical attributes.
+- *Gameplay Mechanic #5: Move the shark by pressing and holding the arrow keys
 
 # Learning Aspects
 
