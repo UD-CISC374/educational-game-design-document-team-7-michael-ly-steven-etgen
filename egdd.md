@@ -21,10 +21,10 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1: Get the ability to conrol your shark through calling methods and changing attributes as you eat fish of smaller size.
+- *Gameplay Mechanic #1: Get the ability to control your shark through calling methods and changing attributes as you eat fish of smaller size.
 - *Gameplay Mechanic #2: Input a method that grows your shark.
 - *Gameplay Mechanic #3: Input a method that changes your shark's speed.
-- *Gameplay Mechanic #4: Input a methods that changes your shark's color and other phsyical attributes.
+- *Gameplay Mechanic #4: Input a methods that changes your shark's color and other physical attributes.
 - *Gameplay Mechanic #5: Move the shark by pressing and holding the arrow keys
 
 # Learning Aspects
@@ -54,16 +54,16 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 *Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
 
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- Correctly call methods: By the end of the game, players will be able to call methods correctly by passing in inputs the right way. 
+- Identify attributes: By the end of the game, players will be able to identify attributes from an object.
+- Change attricutes: By the end of the game, players will be able to change attributes of an object through calling methods.
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Prior to the game, players need to be able to define the concept of a Java class.
+- Prior to the game, players need to be able to create an instance of a Java class.
 
 ## Assessment Measures
 
