@@ -56,7 +56,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 - Correctly call methods: By the end of the game, players will be able to call methods correctly by passing in inputs the right way. 
 - Identify attributes: By the end of the game, players will be able to identify attributes from an object.
-- Change attricutes: By the end of the game, players will be able to change attributes of an object through calling methods.
+- Change attributes: By the end of the game, players will be able to change attributes of an object through calling methods.
 
 ## Prerequisite Knowledge
 
