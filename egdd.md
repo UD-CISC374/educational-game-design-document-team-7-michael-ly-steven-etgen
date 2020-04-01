@@ -10,7 +10,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 - *Influence #1*: Feeding Frenzy
   - Medium: Video game
-  - Explanation: This is a simple yet addicting game where you start with a relatively small fish. Your fish can get bigger in size by eating enough fish that are 	smaller than it. As your fish gets bigger, it can start targeting fish that used to be bigger than it. This game has a similiar style to Feeding Frenzy. We 	use a similiar concept with our game as you gain the ability to call methods as you eat fish of smaller size.
+  - Explanation: This is a simple yet addicting game where you start with a relatively small fish. Your fish can get bigger in size by eating enough fish that are 	smaller than it. As your fish gets bigger, it can start targeting fish that used to be bigger than it. This game has a similiar style to Feeding Frenzy. We use a similiar concept with our game as you gain the ability to call methods as you eat fish of smaller size.
 
 - *Influence #2*:
   - Medium: 
@@ -75,7 +75,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
-- *Reason #1*
+- Gives the player complete control (to an extent) over how the shark grows and changes throughout the game. This teaches simple method calls and other basic programming knowlegde at the same time.
 - *Reason #2*
 - *Reason #3*
 - *Reason #4*
@@ -91,15 +91,15 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: *Description*
+- *Player mode #1*: Classic mode is tha base mode of the game. The player works to grow his shark through the use of methods and attributes.
 - *Player mode #2*: *Description*
 - *etc.*
 
 # Gameplay Objectives
 
 - *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+    - Description: Contorl your shark and eat smaller fish to evolve, and change other aspects of yourself.
+    - Alignment: Gives the player the ability to directly contorl the sharks appearance through the calling of methods and changing of simple attributes. The player will see the exact changes that they are making through simple coding practices.
 - *Primary Objective #2*:
     - Description: *Description*
     - Alignment: *Describe how this aligns with one or more learning objectives*
@@ -135,6 +135,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 ## Presentation of Rules
 
 *Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+The player will begin the game with control of the shark, and rules will appear simply. For example, the first rule given will be to eat a smaller fish. When that task is completed, the next objective will be displayed to the player.
 
 ## Presentation of Content
 
@@ -143,6 +144,7 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 ## Story (Brief)
 
 *The Summary or TL;DR version of below*
+Our shark begins small and plain, and as the player progresses through the game he can grow and become larger. Eventually, he will overcome the dangerous obsticles of the sea to become an apex predator.
 
 ## Storyboarding
 
@@ -157,15 +159,15 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 ## Graphical
 
 - Characters List
-  - *Characters 1*
+  - A small shark that changes size, color, and other attributes as the player progresses
   - *Characters 2*
   - *...*
 - Textures:
-  - *Texture 1*
+  - Smaller fish of many different colors
   - *Texture 2*
   - *...*
 - Environment Art/Textures:
-  - *Environment Texture 1*
+  - An underwater background with colorful coral and mountains
   - *Environment Texture 2*
   - *...*
 
