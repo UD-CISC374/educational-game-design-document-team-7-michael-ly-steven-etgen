@@ -24,8 +24,8 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 - *Gameplay Mechanic #1: Get the ability to control your shark through calling methods and changing attributes as you eat fish of smaller size.
 - *Gameplay Mechanic #2: Input a method that grows your shark.
 - *Gameplay Mechanic #3: Input a method that changes your shark's speed.
-- *Gameplay Mechanic #4: Input a methods that changes your shark's color and other physical attributes.
-- *Gameplay Mechanic #5: Move the shark by pressing and holding the arrow keys
+- *Gameplay Mechanic #4: Input a method that changes your shark's color and other physical attributes.
+- *Gameplay Mechanic #5: Move the shark by pressing and holding the arrow keys.
 
 # Learning Aspects
 
@@ -67,39 +67,34 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
-
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+- Given a function declaration, call the function correctly.
+- Given a list of attributes, modify the attributes through calling methods correctly.
 
 # What sets this project apart?
 
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
 - Gives the player complete control (to an extent) over how the shark grows and changes throughout the game. This teaches simple method calls and other basic programming knowlegde at the same time.
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+This is a game for one person, they use keyboard to take control of the game character (shark). 
 
 ## Player Modes
 
 *Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
 
-- *Player mode #1*: Classic mode is tha base mode of the game. The player works to grow his shark through the use of methods and attributes.
+- Classic: Classic mode is the base mode of the game. The player works to grow his shark through the use of methods and attributes.
 - *Player mode #2*: *Description*
 - *etc.*
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: Contorl your shark and eat smaller fish to evolve, and change other aspects of yourself.
-    - Alignment: Gives the player the ability to directly contorl the sharks appearance through the calling of methods and changing of simple attributes. The player will see the exact changes that they are making through simple coding practices.
+- Change/Evolve your shark:
+    - Description: Control your shark and eat smaller fish to evolve, and change other aspects of yourself.
+    - Alignment: Gives the player the ability to directly control the shark's appearance through the calling of methods and changing of simple attributes. The player will see the exact changes that they are making through simple coding practices.
 - *Primary Objective #2*:
     - Description: *Description*
     - Alignment: *Describe how this aligns with one or more learning objectives*
