@@ -75,20 +75,20 @@ Our game combines the fun of popular "feeding-frenzy" type games with the creati
 *Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
 
 - Gives the player complete control (to an extent) over how the shark grows and changes throughout the game. This teaches simple method calls and other basic programming knowlegde at the same time.
+- Gives the player an addicting game with a simple objective, while letting them customize their shark’s appearance and other physical attributes. This will let them be creative and build a unique gaming experience, all while teaching them programming fundamentals.
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-This is a game for one person, they use keyboard to take control of the game character (shark). 
+This game is for one person, they use a keyboard to take control of the game character(shark), which includes moving the shark as well as modifying the attributes of the shark. 
 
 ## Player Modes
 
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
+- Title Screen: This is the title screen of the game where players can choose to start their playthrough. The title screen will transition to the main game when the player clicks the start button.
+- Main Game: Classic mode is the base mode of the game. The player works to grow his shark through the use of methods and attributes. The player will be able to transition to a menu screen by clicking the menu button at the top of the game.
+- Menu Screen: The player will be able to access transition back to the main game or the title screen by clicking the appropriate button in the menu screen.
 
-- Classic: Classic mode is the base mode of the game. The player works to grow his shark through the use of methods and attributes.
-- *Player mode #2*: *Description*
-- *etc.*
 
 # Gameplay Objectives
 
@@ -102,35 +102,40 @@ This is a game for one person, they use keyboard to take control of the game cha
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+- You can move the shark across the screen and eat smaller fish.
+- You can use methods to modify your shark at a certain point. 
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+- If the shark eats fish smaller than it, points will be rewarded.
+- If the shark attempts to eat fish bigger than it, the player is penalized by decreasing the total number of points.
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+- There is a shark with a variable size or color.
+- There are fish with variable size.
+- There is a score at the top of the screen.
+
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+- Control your shark: You can move the shark anywhere on the screen using the arrow keys on your keyboard, eat fish that are smaller than your shark and avoid fish that are bigger than it. Your total score should increase if you eat smaller fish and decrease if you eat bigger fish.
+- Upgrade your shark: If you gain enough points, upgrade your shark by calling methods. You can either make your shark faster or bigger. The end goal is to get enough points to beat the game.
 
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
+- If you eat fish that are smaller than the shark, your total score will go up, which will be presented at the top of the screen.
+- If you eat fish that are bigger than the shark, your total score decreases.
+- Gaining enough points to beat the game will display text to congratulate you.
 
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
 *Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
-The player will begin the game with control of the shark, and rules will appear simply. For example, the first rule given will be to eat a smaller fish. When that task is completed, the next objective will be displayed to the player.
+- The player will begin the game with control of the shark, and rules will appear simply. For example, the first rule given will be to eat a smaller fish. When that task is completed, the next objective will be displayed to the player.
 
 ## Presentation of Content
 
@@ -139,7 +144,7 @@ The player will begin the game with control of the shark, and rules will appear 
 ## Story (Brief)
 
 *The Summary or TL;DR version of below*
-Our shark begins small and plain, and as the player progresses through the game he can grow and become larger. Eventually, he will overcome the dangerous obsticles of the sea to become an apex predator.
+- Our shark begins small and plain, and as the player progresses through the game he can grow and become larger. Eventually, he will overcome the dangerous obsticles of the sea to become an apex predator.
 
 ## Storyboarding
 
